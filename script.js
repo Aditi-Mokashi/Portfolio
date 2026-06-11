@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- TYPEWRITER EFFECT ---
     const typewriterElement = document.getElementById('typewriter');
-    const titles = ["Applied AI Engineer", "Data Engineer", "Backend Engineer"];
+    const titles = ["Applied AI Engineer", "Data Engineer", "Backend Developer"];
     let titleIndex = 0;
     let charIndex = 0;
 
